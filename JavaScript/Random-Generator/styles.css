@@ -1,0 +1,35 @@
+/* Set the background of the entire document
+to black */
+html {
+    background-color: #000;
+} 
+
+/* Styles for the main area of the document */
+#mainArea {
+    background-image: linear-gradient(#263238, #455A64);
+    padding: 5%;
+    margin: 5%;
+    border: 2px solid #689F38;
+    border-radius: 15px;
+}
+
+/* Styles for the H1 element */
+h1 {
+    text-align: center;
+    color: #FFF;
+}
+
+/* Styles for the H2 element */ 
+h2 {
+    text-align: center;
+}
+
+/* Styles for the randomButton element */
+#randomButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+}
