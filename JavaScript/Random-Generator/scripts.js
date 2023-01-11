@@ -1,3 +1,7 @@
+/* The concept of this project is from the book
+JavaScript For Kids: A Playful Introduction to Programming 
+Chapter 3, Page 59 */
+
 // An array of names or titles
 var peopleArr = [
   "A Walmart Greeter", 
