@@ -1,0 +1,12 @@
+html {
+  background-color: #000;
+} 
+
+#infoArea {
+  color: #FFF;
+  margin-left: 50px;
+}
+
+#infoArea H2 {
+    color: red;
+}
